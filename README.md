@@ -349,22 +349,3 @@ Response:
 }
 ```
 
----
-
-## 📁 Folder Structure
-```
-project/
-├── index.js
-├── package.json
-├── .env
-├── routes/
-│   ├── auth.js
-│   ├── products.js
-│   └── orders.js
-├── controllers/
-│   ├── authController.js
-│   ├── productController.js
-│   └── orderController.js
-└── middleware/
-    └── authMiddleware.js
-```
